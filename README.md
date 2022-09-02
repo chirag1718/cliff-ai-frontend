@@ -7,7 +7,7 @@ you'll be able to see the data retrieved from the api
 ### You can login using 
 #### username: greendeck 
 #### password: cliffai123
-### Or you can register using the same credentials above
+### Or you can register using the same or other username and password credentials you like.
 
 # Getting Started with Create React App
 
