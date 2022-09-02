@@ -1,5 +1,5 @@
 # Follow all the steps below to run the app
-I was not able to rende sheets column numbers because I did not understand how to store the spreadsheetId recieved from drive and fetch into google sheets api but I've tried to print the values in the termianal and google authentication is working as well, 
+I was not able to render sheets column numbers because I did not understand how to store the spreadsheetId recieved from drive and fetch into google sheets api but I've tried to print the values in the termianal and google authentication is working as well, 
 and if you go to server/routes and run command
 ### node drive.js and sheets.js 
 you'll be able to see the data retrieved from the api 
